@@ -1,0 +1,123 @@
+{
+  "Bedding": {
+    "required_checks": [
+      "Fiber content label required",
+      "Care instruction label required",
+      "Country of origin label required",
+      "Flammability review recommended",
+      "Colorfastness testing recommended",
+      "Shrinkage testing recommended",
+      "Retailer packaging and carton labeling required",
+      "Pre-shipment inspection required"
+    ],
+    "documents_needed": [
+      "Commercial invoice",
+      "Packing list",
+      "Bill of lading",
+      "Certificate of origin",
+      "Product specification sheet",
+      "Lab testing certificate if required by retailer",
+      "Pre-shipment inspection report"
+    ],
+    "risk_notes": [
+      "Color bleeding may cause customer complaints",
+      "Incorrect fiber label can create compliance issue",
+      "Poor stitching or quilting may lead to chargebacks",
+      "Incorrect carton labels may cause retailer routing penalties"
+    ]
+  },
+  "Bath": {
+    "required_checks": [
+      "Fiber content label required",
+      "Care instruction label required",
+      "Country of origin label required",
+      "Absorbency testing recommended",
+      "Colorfastness testing recommended",
+      "Shrinkage testing recommended",
+      "Pre-shipment inspection required"
+    ],
+    "documents_needed": [
+      "Commercial invoice",
+      "Packing list",
+      "Bill of lading",
+      "Certificate of origin",
+      "Product specification sheet",
+      "Inspection report"
+    ],
+    "risk_notes": [
+      "Low absorbency can lead to buyer rejection",
+      "Lint shedding may create quality complaints",
+      "Color variation across towel sets can cause chargebacks"
+    ]
+  },
+  "Cushions": {
+    "required_checks": [
+      "Fiber content label required",
+      "Care instruction label required",
+      "Country of origin label required",
+      "Stuffing material declaration recommended",
+      "Seam strength inspection required",
+      "Retailer packaging and carton labeling required"
+    ],
+    "documents_needed": [
+      "Commercial invoice",
+      "Packing list",
+      "Bill of lading",
+      "Certificate of origin",
+      "Product specification sheet",
+      "Stuffing material declaration",
+      "Inspection report"
+    ],
+    "risk_notes": [
+      "Weak seams may fail during handling",
+      "Poor filling quality can reduce perceived value",
+      "Color or embroidery defects may increase returns"
+    ]
+  },
+  "Throws": {
+    "required_checks": [
+      "Fiber content label required",
+      "Care instruction label required",
+      "Country of origin label required",
+      "Colorfastness testing recommended",
+      "Pilling test recommended",
+      "Pre-shipment inspection required"
+    ],
+    "documents_needed": [
+      "Commercial invoice",
+      "Packing list",
+      "Bill of lading",
+      "Certificate of origin",
+      "Product specification sheet",
+      "Inspection report"
+    ],
+    "risk_notes": [
+      "Pilling can reduce product quality perception",
+      "Color shedding can cause complaints",
+      "Incorrect folded packaging may affect shelf presentation"
+    ]
+  },
+  "Kitchen Textile": {
+    "required_checks": [
+      "Fiber content label required",
+      "Care instruction label required",
+      "Country of origin label required",
+      "Colorfastness testing recommended",
+      "Heat resistance review recommended for oven mitts and pot holders",
+      "Retailer packaging and carton labeling required"
+    ],
+    "documents_needed": [
+      "Commercial invoice",
+      "Packing list",
+      "Bill of lading",
+      "Certificate of origin",
+      "Product specification sheet",
+      "Inspection report"
+    ],
+    "risk_notes": [
+      "Poor heat resistance may create safety concern",
+      "Color bleeding can damage other items during washing",
+      "Incorrect packaging can reduce giftability"
+    ]
+  }
+}

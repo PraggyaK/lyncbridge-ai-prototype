@@ -1,0 +1,13 @@
+supplier_name,country,category,min_moq,max_capacity_monthly,fob_min,fob_max,lead_time_days,qc_score,compliance_score,speciality
+Textile House India,India,Bedding,1000,50000,9,13,45,88,91,Quilts and printed bedding
+Dhaka Home Mills,Bangladesh,Bedding,2000,70000,8,11,55,82,86,Value bedding and cotton blends
+Ningbo Soft Goods,China,Bedding,1500,60000,10,14,35,90,88,Fast sampling and synthetic bedding
+Panipat Luxe Textiles,India,Bedding,800,30000,11,16,50,92,90,Premium cotton bedding
+Karachi Home Exports,Pakistan,Bedding,1200,40000,8,12,48,80,84,Low-cost bedding and sheet sets
+Istanbul Soft Home,Turkey,Bedding,900,35000,12,18,42,89,92,Premium European-style bedding
+Hanoi Home Textiles,Vietnam,Bedding,1500,45000,10,15,40,86,89,Printed bedding and soft home
+Jaipur Bath Works,India,Bath,1000,25000,4,8,35,85,88,Towels and bath sets
+Dhaka Towel Mills,Bangladesh,Bath,2000,60000,3,7,50,81,84,Value bath textiles
+Ningbo Bath & Home,China,Bath,1500,50000,5,9,32,87,86,Fast bath textile production
+Panipat Cushion Co,India,Cushions,800,30000,3,7,30,90,88,Decorative cushions
+Guangzhou Decor Textiles,China,Cushions,1000,55000,2,6,28,84,85,Low-cost cushions and throws

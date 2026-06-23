@@ -1,0 +1,37 @@
+{
+  "HomeGoods": {
+    "positioning": "value-led premium home decor and soft home retailer",
+    "preferred_style": ["classic", "seasonal", "soft luxury", "decorative", "giftable"],
+    "price_sensitivity": "medium",
+    "quality_expectation": "high",
+    "best_categories": ["Bedding", "Bath", "Cushions", "Throws"]
+  },
+  "Ross": {
+    "positioning": "off-price value retailer focused on fast-moving affordable products",
+    "preferred_style": ["mass appeal", "simple", "low cost", "practical", "high value"],
+    "price_sensitivity": "high",
+    "quality_expectation": "medium",
+    "best_categories": ["Bedding", "Bath", "Kitchen Textile", "Cushions"]
+  },
+  "Burlington": {
+    "positioning": "discount department store with family, seasonal, and home categories",
+    "preferred_style": ["practical", "family-friendly", "giftable", "seasonal", "decorative"],
+    "price_sensitivity": "high",
+    "quality_expectation": "medium",
+    "best_categories": ["Bedding", "Bath", "Cushions", "Throws"]
+  },
+  "Five Below": {
+    "positioning": "youth-led value retailer focused on fun, trend-led, low-ticket products",
+    "preferred_style": ["playful", "colorful", "viral", "novelty", "youth trend"],
+    "price_sensitivity": "very high",
+    "quality_expectation": "medium-low",
+    "best_categories": ["Cushions", "Throws", "Kitchen Textile"]
+  },
+  "Big Lots": {
+    "positioning": "value retailer for home, furniture, seasonal, and closeout goods",
+    "preferred_style": ["practical", "family", "seasonal", "traditional", "affordable"],
+    "price_sensitivity": "high",
+    "quality_expectation": "medium",
+    "best_categories": ["Bedding", "Bath", "Kitchen Textile", "Throws"]
+  }
+}

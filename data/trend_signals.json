@@ -1,0 +1,110 @@
+{
+  "Bedding": {
+    "Spring 2026": {
+      "trend_name": "Fresh Cottage Calm",
+      "colors": ["soft sage", "warm ivory", "powder blue", "light blush"],
+      "patterns": ["small florals", "washed stripes", "mini checks", "botanical sprigs"],
+      "materials": ["cotton blend", "washed microfiber", "light quilted texture"],
+      "retail_angle": "fresh, calm, and easy to style for spring home refresh"
+    },
+    "Summer 2026": {
+      "trend_name": "Coastal Air",
+      "colors": ["sea blue", "white", "sand beige", "sun-faded coral"],
+      "patterns": ["coastal stripes", "shell motifs", "light geometric borders"],
+      "materials": ["light cotton blend", "cool-touch microfiber", "breathable weave"],
+      "retail_angle": "vacation-inspired bedding with light colors and accessible pricing"
+    },
+    "Fall 2026": {
+      "trend_name": "Soft Heritage Luxury",
+      "colors": ["muted blue", "ivory", "antique gold", "dusty taupe"],
+      "patterns": ["European border", "small botanical motifs", "vintage damask", "reversible print"],
+      "materials": ["cotton blend", "washed microfiber", "quilted texture"],
+      "retail_angle": "premium-looking bedding for value-led home retailers"
+    },
+    "Holiday 2026": {
+      "trend_name": "Warm Festive Lodge",
+      "colors": ["deep red", "forest green", "cream", "brushed gold"],
+      "patterns": ["heritage checks", "winter botanicals", "embroidered borders"],
+      "materials": ["brushed microfiber", "quilted cotton blend", "soft fleece accent"],
+      "retail_angle": "giftable seasonal bedding with cozy holiday appeal"
+    }
+  },
+  "Bath": {
+    "Spring 2026": {
+      "trend_name": "Spa Refresh",
+      "colors": ["white", "eucalyptus green", "stone grey", "soft beige"],
+      "patterns": ["solid textures", "ribbed borders", "minimal jacquard"],
+      "materials": ["cotton terry", "zero twist cotton", "cotton blend"],
+      "retail_angle": "clean spa-like bath refresh at accessible price points"
+    },
+    "Summer 2026": {
+      "trend_name": "Resort Bath",
+      "colors": ["aqua", "white", "sand", "sun yellow"],
+      "patterns": ["cabana stripes", "border towels", "wave textures"],
+      "materials": ["cotton terry", "quick-dry cotton blend"],
+      "retail_angle": "resort-inspired bath products for summer home updates"
+    },
+    "Fall 2026": {
+      "trend_name": "Earthy Hotel Bath",
+      "colors": ["mushroom", "olive", "cream", "charcoal"],
+      "patterns": ["solid rib", "hotel border", "subtle woven texture"],
+      "materials": ["cotton terry", "modal blend", "heavyweight cotton"],
+      "retail_angle": "hotel-style towels with warm earthy fall colors"
+    },
+    "Holiday 2026": {
+      "trend_name": "Giftable Bath Sets",
+      "colors": ["cranberry", "cream", "forest green", "silver grey"],
+      "patterns": ["embroidered motifs", "festive borders", "jacquard texture"],
+      "materials": ["cotton terry", "velour accent", "gift-box packaging"],
+      "retail_angle": "holiday-ready bath sets suitable for gifting and promotional tables"
+    }
+  },
+  "Cushions": {
+    "Spring 2026": {
+      "trend_name": "Soft Garden Accent",
+      "colors": ["blush", "sage", "ivory", "powder yellow"],
+      "patterns": ["embroidered florals", "tufted texture", "mini botanical print"],
+      "materials": ["cotton slub", "polyester fill", "textured woven fabric"],
+      "retail_angle": "easy seasonal decor update with soft garden appeal"
+    },
+    "Fall 2026": {
+      "trend_name": "Vintage Manor Accent",
+      "colors": ["rust", "deep blue", "olive", "cream"],
+      "patterns": ["tapestry look", "European motifs", "embroidered borders"],
+      "materials": ["cotton canvas", "velvet touch polyester", "jacquard woven fabric"],
+      "retail_angle": "premium-looking decorative cushions for value home retail"
+    }
+  },
+  "Throws": {
+    "Fall 2026": {
+      "trend_name": "Cozy Cabin Texture",
+      "colors": ["camel", "cream", "deep green", "charcoal"],
+      "patterns": ["chunky knit", "plaid", "herringbone"],
+      "materials": ["fleece", "sherpa", "knit acrylic"],
+      "retail_angle": "cozy, giftable, high perceived value product for colder months"
+    },
+    "Holiday 2026": {
+      "trend_name": "Festive Comfort",
+      "colors": ["red", "cream", "green", "gold"],
+      "patterns": ["holiday plaid", "snowflake motifs", "novelty festive print"],
+      "materials": ["sherpa", "fleece", "brushed knit"],
+      "retail_angle": "low-risk seasonal gift item with strong display appeal"
+    }
+  },
+  "Kitchen Textile": {
+    "Spring 2026": {
+      "trend_name": "Fresh Market Kitchen",
+      "colors": ["lemon yellow", "sage", "white", "soft blue"],
+      "patterns": ["fruit motifs", "gingham", "small florals"],
+      "materials": ["cotton canvas", "recycled cotton blend"],
+      "retail_angle": "bright kitchen refresh with giftable small-ticket value"
+    },
+    "Holiday 2026": {
+      "trend_name": "Holiday Hosting",
+      "colors": ["red", "green", "cream", "gold"],
+      "patterns": ["festive checks", "embroidered icons", "botanical holiday print"],
+      "materials": ["cotton blend", "printed canvas", "quilted pot holder fabric"],
+      "retail_angle": "seasonal kitchen textiles for gifting and holiday hosting"
+    }
+  }
+}
